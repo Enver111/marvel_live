@@ -9934,7 +9934,7 @@
         }
       }
       const k = b,
-        w = t.p + 'static/media/vision.067d4ae1936d64a577ce.png';
+        w = 'static/media/vision.067d4ae1936d64a577ce.png';
       class S extends e.Component {
         constructor() {
           super(...arguments),
