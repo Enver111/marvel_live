@@ -9543,7 +9543,7 @@
               }));
           }
         },
-        s = t.p + './static/media/mjolnir.61f31e1809f12183a524.png';
+        s = './static/media/mjolnir.61f31e1809f12183a524.png';
       class c extends e.Component {
         constructor() {
           super(...arguments),
